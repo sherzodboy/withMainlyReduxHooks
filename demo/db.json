@@ -1,0 +1,38 @@
+{
+  "news": [
+    {
+      "id": "140ec405-dcb0-407a-a64a-bdb4f8db0dbd",
+      "name": "Sherzod Kholmamatov",
+      "description": "New's doesn't found\nName for new News\nSherzod Kholmamatov\nDescription",
+      "category": ""
+    },
+    {
+      "id": "aad94e7e-4bfc-4945-89d4-25cb73e35165",
+      "name": "dddddddddddddddd",
+      "description": "sdf",
+      "category": "Hot News"
+    }
+  ],
+  "filters": [
+    {
+      "name": "all",
+      "label": "ALL",
+      "className": "btn-outline-dark"
+    },
+    {
+      "name": "Hot News",
+      "label": "Hot News",
+      "className": "btn-danger"
+    },
+    {
+      "name": "Sport News",
+      "label": "Sport News",
+      "className": "btn-primary"
+    },
+    {
+      "name": "World News",
+      "label": "World news",
+      "className": "btn-success"
+    }
+  ]
+}
